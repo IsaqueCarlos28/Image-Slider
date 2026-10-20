@@ -1,7 +1,26 @@
+import { useEffect,useState } from 'react';
 import Background from './components/Background.jsx';
 import ImageSlider from './components/ImageSlider.jsx';
+import { slides } from './data/slides.js';
 
+const angles = [-10,7,-5,9,-8]
 export default function App() {
+  const [index, setIndex] = useState(2);
+  const active = slides[index];
+
+  const next = () => setIndex(current => (current + 1) % slides.length)
+  const previous = () => setIndex(current => (current - 1 + slides.length) % slides.length )
+
+  useEffect(()=>{
+    const onKeyDown = event => {
+      if(['INPUT','TEXTAREA','SELECT'].includes(document.activeElement?.tagName)) return;
+      if (event.key === 'ArrowRight') next();
+      if (event.key === 'ArrowLeft') previous();
+    };
+    window.addEventListener ('keydown',onKeyDown);
+    return () =>  window.addEventListener ('keydown',onKeyDown);
+  },[]);
+
   return (
     <div className="relative isolate min-h-screen overflow-hidden text-ink">
       <Background />
