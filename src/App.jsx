@@ -7,7 +7,7 @@ export default function App() {
       <Background />
       <div className="mx-auto max-w-[1280px] px-6 sm:px-10">
         <header className="flex items-center justify-between border-b border-violet-100 py-8">
-        <div className="flex items-center">
+          <div className="flex items-center">
             <div className="flex h-20 items-center">
               <img
                 className="size-20 transition-[width,height] duration-300 ease-out hover:size-25 motion-reduce:transition-none"
