@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "WILD / STORIES — Image Slider",
+    "nav": "EXPLORE · ABOUT",
+    "navAria": "Main navigation",
+    "logoAlt": "Nox Mascot",
+    "presentAria": "Presentation",
+    "hero": "EXPLORATION • WILDLIFE",
+    "heading": "Nature in every detail.",
+    "subtitle": "Discover extraordinary species in an interactive visual experience.",
+    "galleryAria": "Wildlife gallery",
+    "footer": "REACT • TAILWIND CSS • JAVASCRIPT",
+    "controlsAria": "Slider controls",
+    "previous": "Previous image",
+    "next": "Next image"
+  },
+  "slider": {
+    "featured": "FEATURED"
+  },
+  "language": {
+    "selectorAria": "Select language"
+  },
+  "slides": {
+    "cachorros": {
+      "badge": "DOGS",
+      "animal": "Puppies",
+      "alt": "Puppies in a flowery field",
+      "summary": "Small companions, big personalities.",
+      "description": "Small breeds are known for their curiosity, energy, and attachment to their owners."
+    },
+    "urso": {
+      "badge": "BEARS",
+      "animal": "Bear",
+      "alt": "Bear cub next to an adult bear",
+      "summary": "Strength, care, and wildlife.",
+      "description": "Bears live in diverse habitats and have varied diets and behaviors."
+    },
+    "panda": {
+      "badge": "GIANT PANDA",
+      "animal": "Giant panda",
+      "alt": "Pandas resting in their habitat",
+      "summary": "Calm, curious, and unmistakable.",
+      "description": "The giant panda lives in China, feeds mainly on bamboo, and is an excellent climber."
+    },
+    "leao": {
+      "badge": "LIONS",
+      "animal": "Lion",
+      "alt": "Lioness resting on a branch",
+      "summary": "A large social feline.",
+      "description": "Lions live in social groups and are skilled predators."
+    },
+    "girafa": {
+      "badge": "GIRAFFES",
+      "animal": "Giraffe",
+      "alt": "Two giraffes on the savanna",
+      "summary": "The tallest land animals.",
+      "description": "Their long neck allows them to reach leaves high up in African trees."
+    }
+  }
+}

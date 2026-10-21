@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "WILD / STORIES — Image Slider",
+    "nav": "EXPLORAR · SOBRE",
+    "navAria": "Navegación principal",
+    "logoAlt": "Nox Mascota",
+    "presentAria": "Presentación",
+    "hero": "EXPLORACIÓN • VIDA SALVAJE",
+    "heading": "La naturaleza en cada detalle.",
+    "subtitle": "Descubre especies extraordinarias en una experiencia visual interactiva.",
+    "galleryAria": "Galería de vida salvaje",
+    "footer": "REACT • TAILWIND CSS • JAVASCRIPT",
+    "controlsAria": "Controles del slider",
+    "previous": "Imagen anterior",
+    "next": "Imagen siguiente"
+  },
+  "slider": {
+    "featured": "DESTACADO"
+  },
+  "language": {
+    "selectorAria": "Seleccionar idioma"
+  },
+  "slides": {
+    "cachorros": {
+      "badge": "PERROS",
+      "animal": "Cachorros",
+      "alt": "Cachorros en un campo florido",
+      "summary": "Pequeños compañeros, grandes personalidades.",
+      "description": "Las razas pequeñas son conocidas por su curiosidad, energía y apego a sus dueños."
+    },
+    "urso": {
+      "badge": "OSOS",
+      "animal": "Oso",
+      "alt": "Cachorro de oso junto a un oso adulto",
+      "summary": "Fuerza, cuidado y vida salvaje.",
+      "description": "Los osos viven en diversos hábitats y tienen dietas y comportamientos variados."
+    },
+    "panda": {
+      "badge": "PANDA GIGANTE",
+      "animal": "Panda gigante",
+      "alt": "Pandas descansando en su hábitat",
+      "summary": "Calmo, curioso e inconfundible.",
+      "description": "El panda gigante vive en China, se alimenta principalmente de bambú y es un excelente escalador."
+    },
+    "leao": {
+      "badge": "LEONES",
+      "animal": "León",
+      "alt": "Leona descansando en una rama",
+      "summary": "Un gran felino social.",
+      "description": "Los leones viven en grupos sociales y son depredadores hábiles."
+    },
+    "girafa": {
+      "badge": "JIRAFAS",
+      "animal": "Jirafa",
+      "alt": "Dos jirafas en la sabana",
+      "summary": "La mayor altura entre los animales terrestres.",
+      "description": "Su largo cuello les permite alcanzar hojas en lo alto de los árboles africanos."
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "WILD / STORIES — Image Slider",
+    "nav": "EXPLORAR · SOBRE",
+    "navAria": "Navegação principal",
+    "logoAlt": "Nox Mascote",
+    "presentAria": "Apresentação",
+    "hero": "EXPLORAÇÃO • VIDA SELVAGEM",
+    "heading": "A natureza em cada detalhe.",
+    "subtitle": "Descubra espécies extraordinárias em uma experiência visual interativa.",
+    "galleryAria": "Galeria da vida selvagem",
+    "footer": "REACT • TAILWIND CSS • JAVASCRIPT",
+    "controlsAria": "Controles do slider",
+    "previous": "Imagem anterior",
+    "next": "Próxima imagem"
+  },
+  "slider": {
+    "featured": "EM DESTAQUE"
+  },
+  "language": {
+    "selectorAria": "Selecionar idioma"
+  },
+  "slides": {
+    "cachorros": {
+      "badge": "CÃES",
+      "animal": "Cachorrinhos",
+      "alt": "Filhotes de cachorro em um campo florido",
+      "summary": "Pequenos companheiros, grandes personalidades.",
+      "description": "Raças pequenas são conhecidas por sua curiosidade, energia e apego aos tutores."
+    },
+    "urso": {
+      "badge": "URSOS",
+      "animal": "Urso",
+      "alt": "Filhote de urso junto a um urso adulto",
+      "summary": "Força, cuidado e vida selvagem.",
+      "description": "Ursos vivem em diversos habitats e apresentam dietas e comportamentos variados."
+    },
+    "panda": {
+      "badge": "PANDA-GIGANTE",
+      "animal": "Panda-gigante",
+      "alt": "Pandas descansando em seu habitat",
+      "summary": "Calmo, curioso e inconfundível.",
+      "description": "O panda-gigante vive na China, alimenta-se principalmente de bambu e é um excelente escalador."
+    },
+    "leao": {
+      "badge": "LEÕES",
+      "animal": "Leão",
+      "alt": "Leoa descansando em um galho",
+      "summary": "Um grande felino social.",
+      "description": "Leões vivem em grupos sociais e são predadores habilidosos."
+    },
+    "girafa": {
+      "badge": "GIRAFAS",
+      "animal": "Girafa",
+      "alt": "Duas girafas na savana",
+      "summary": "A maior altura entre os animais terrestres.",
+      "description": "Seu pescoço comprido permite alcançar folhas no alto das árvores africanas."
+    }
+  }
+}
